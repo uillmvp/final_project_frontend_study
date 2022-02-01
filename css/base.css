@@ -1,0 +1,9 @@
+.btn-default {
+	color: #fff;
+	background-color: var(--color-default);
+	border: none;
+	font-size: 1.5rem;
+	padding: 15px 30px 15px 30px;
+	border-radius: 8px;
+	text-transform: uppercase;
+}
